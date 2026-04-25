@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[2593,["177","static/chunks/app/layout-78d936304746d7e4.js"],""]
+3:I[7121,[],""]
+4:I[4581,[],""]
+:HL["/bumpgen/_next/static/css/a13b16a964a390fc.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bumpgen/_next/static/css/a13b16a964a390fc.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"bg-black","children":["$","body",null,{"className":"font-sans antialiased","children":[["$","$L2",null,{"async":true,"data-id":"101505040","src":"https://static.getclicky.com/js"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zmn3t07_uhyQ1XPLS2OZj"}
